@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>freeCodeCamp</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+
+  <body>
+    <h1>IT'S WORKING <strong>GIGI</strong></h1>
+    <h2>I coded this</h2>
+    <h3>I am no saint now, I am a blogger</h3>
+<h4> ok...<em>bye<em> </h4>
+  </body>
+</html>
